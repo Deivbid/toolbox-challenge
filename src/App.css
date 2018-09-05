@@ -1,0 +1,17 @@
+
+
+#text{
+  margin: 10px;
+}
+
+.app{
+  position: absolute;
+  top: 50%;
+  left: 33%;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
